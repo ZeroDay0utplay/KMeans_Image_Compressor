@@ -1,1 +1,1 @@
-# KMeans_Image_Compressor
+# KMeans Image Compressor
